@@ -1,2 +1,1 @@
-# Power-Failure-Alarm
-Power Failure Alarm
+使用传输距离达到2公里的443射频无线串口制作的停电报警器需要将客户端的检测线和地并接到交流接触器的常开触点上
